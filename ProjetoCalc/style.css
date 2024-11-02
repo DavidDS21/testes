@@ -1,0 +1,35 @@
+#cx1{
+    background-color: rgb(30, 30, 30);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 20px;
+}
+
+input{
+    border-radius: 5px;
+    margin-top: 5px;
+}
+h2{
+    color: darkgrey;
+    margin-top: 7px;
+}
+p{
+    color: darkgrey;
+}
+#cx2{
+    margin-top: 7px;
+}
+
+#oi{
+    margin-top: 7px;
+}
